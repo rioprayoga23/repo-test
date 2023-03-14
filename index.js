@@ -14,7 +14,7 @@
 // };
 // cetak("FAZZTRACK");
 
-const cetak2 = (num) => {
+const cetak3 = (num) => {
   let result = "";
   let tempNum = "";
   for (let i = 1; i <= num; i++) {
